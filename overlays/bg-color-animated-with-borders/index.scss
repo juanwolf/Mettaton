@@ -1,0 +1,72 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    margin: 0;
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+    animation: animatedgradient 3s ease alternate infinite;
+    background-size: 300% 300%;
+
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+@keyframes animatedgradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+header {
+    height: 60px;
+    line-height: 60px;
+    padding-left: 25px;
+    border-bottom: 5px solid white;
+    vertical-align: middle;
+}
+
+header > div {
+    display: inline-block;
+    width: 33%;
+    vertical-align: middle;
+}
+
+header > div:last-of-type {
+    padding-left: 45px;
+    width: 25%;
+}
+
+.content {
+    padding-top: 80px
+}
+
+.webcam_section {
+    margin-left: 25px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.webcam {
+    width: 1280px;
+    height: 720px;
+    border: solid white 15px;
+}
+
+.chat_section {
+    display: inline-block;
+}
+.chat {
+    border: solid white 15px;
+    height: 720px;
+    width: 525px;
+}
+
+footer {
+    padding-left: 25px;
+}
