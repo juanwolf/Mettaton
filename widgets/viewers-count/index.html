@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    </head>
+    <body>
+        <progress id="viewer" value="0" max="15"></progress>
+    </body>
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script>
+     $.ajax({
+         url:'https://api.twitch.tv/kraken/streams/101583204',
+         dataType:'json',
+         success:function(stream) {
+             document.getElementById("live").innerHTML="CURRENTLY LIVE WITH ".concat(parseInt(stream.stream.viewers), " VIEWERS.");
+         },
+         error:function() {
+             document.getElementById("live").innerHTML="CURRENTLY OFFLINE.";
+         }
+     });
+    </script>
+</html>
