@@ -1,0 +1,15 @@
+#+Title: Mettaton
+
+A collection of my widgets and animated background built with HTML, CSS and JS.
+
+** How to use
+   All those static elements are hosted on the amazing netlify. You can access them all to https://tv.juanwolf.fr.
+
+   Import them as "Browser source" on OBS and apply a custom CSS to it so it can match your style.
+
+** Contribute
+   Feel free! You know the drill, fork, open a MR and I'll review it.
+
+** License
+
+   MIT License
