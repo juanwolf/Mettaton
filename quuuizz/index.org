@@ -1,0 +1,52 @@
+* Quuuizz
+
+  The Quuuizz is a section where I end the last planned stream so we can have fun all together and the viewers be able to test their general knowledge in a *cough* healthy *cough* environment.
+
+  You might wonder why this index is written in english when all the quuuuizz datasets are in french? I don't even know.
+
+** Requirements
+   QuizzKit extension enabled on your stream. After that all datasets should be importable to the extension.
+
+
+** Quizz Set
+
+*** Session du 6 Aout 2021
+
+    | question                                                                                                      | correct_answer    | incorrect_answer_1      | incorrect_answer_2 | incorrect_answer_3 |
+    |---------------------------------------------------------------------------------------------------------------+-------------------+-------------------------+--------------------+--------------------|
+    | Que jette-ton sur le ring en cas d'abandon durant un match de boxe ?                                          | Eponge            | Gant                    | Protège-dents      | Cullote            |
+    | Quelle espèce d'oiseaux encore présente en Europe grignotte, quiritte ou trille ?                             | Rossignol         | Corbeau                 | Moineau            | Perroquet          |
+    | Qui est devenu célèbre grâce au " Poinçonneur des Lilas " sorti en 1958 ?                                     | Serge Gainsbourg  | Johnny Halliday ( :'( ) | Boris Vian         | Charles Trenet     |
+    | Laquelle de ces professions ne peut-on associer au grand Léonard de Vinci ?                                   | Auteur Dramatique | Botanique               | Sculpteur          | Peintre            |
+    | Fils de Laïos et de Jocaste, qui Oedipe a-t-il tué dans la mythologie grecque ?                               | Son père          | Son fils                | Sa fille           | Sa mère            |
+    | En quelle année a été bu le premier Coca-Cola concocté par John Pemberton ?                                   | 1886              | 1906                    | 1926               | 1946               |
+    | Dans quelle ville se sont déroulés les Jeux olympiques de 1900 ?                                              | Paris             | Athènes                 | Los Angeles        | Rome               |
+    | À quelle substance naturelle ou synthétique la pénicilline est-elle associée ?                                | Antibiotique      | Analgésique             | Soporifique        | Anesthésique       |
+    | Quel prix Nobel Winston Leonard Spencer-Churchill a-t-il reçu en 1953 ?                                       | Littérature       | Paix                    | Physique           | Chimie             |
+    | « Le train sifflera trois fois » est un western américain de quel réalisateur ?                               | Fred Zinnemann    | John Ford               | Vincente Minnelli  | George Stevens     |
+    | En quelle année a-t-on pu assister à l'inauguration du métro parisien ?                                       | 1900              | 1880                    | 1860               | 1920               |
+    | Quel écrivain et journaliste littéraire français fut surnommé le taureau normand ? (Indice: Ce n'est pas moi) | Guy de Maupassant | Honoré de Balzac        | Alfred de Musset   | Victor Hugo        |
+    | Monsieur Diafoirus est un médecin issu de l'imagination de quel dramaturge ?                                  | Molière           | Rabelais                | Corneille          | Voltaire           |
+    | Par rapport à la vitesse duquel de ces éléments le mètre peut-il se définir ?                                 | Lumière           | Eau                     | Son                | Vent               |
+    | Pour quelle profession la ville de Crémone, située dans le nord de l'Italie, est-elle célèbre ?               | Luthier           | Potier                  | Peintre            | Sabotier           |
+    | Comment peut-on littéralement traduire le terme république d'Albanie ?                                        | Pays des aigles   | Pays des chevaux        | Pays des vivants   | Pays des morts     |
+    | Dans quel pays coule le Shannon, traversant des successions interminables de lacs ?                           | Irlande           | Canada                  | Israël             | États-Unis         |
+    | Dans quelle ville se trouve la maison bleue sur la colline chantée par Maxime Le Forestier ?                  | San Francisco     | Mexico                  | Puerto Rico        | Oslo               |
+    | Quel était le prénom du « Chanteur » de Daniel Balavoine ?                                                    | Henri             | Eddy                    | Johnny             | Charlie            |
+    | Qui est l'artiste pour qui ça n'a pas plané au festival Eurovision 1987 ?                                     | Plastic Bertrand  | Hugues Aufray           | Marc Lavoine       | Jean-Claude Pascal |
+    | Quel artiste strasbourgeois au grand coeur chantait « Pour le plaisir » ?                                     | Herbert Léonard   | Gérard Blanc            | Alain Souchon      | Hervé Vilard       |
+    | De quelle ville de France sont originaires les groupes Gold et Images ?                                       | Toulouse          | Arras                   | Grenoble           | Reims              |
+    | Qu'est-ce que « Macumba » dans la chanson de Jean-Pierre Mader ?                                              | Cabaret           | Danseuse                | Bateau             | Village            |
+    | Quel chanteur a, après un « coup de folie », déclaré son amour de la « musique noire » ?                      | Thierry Pastor    | Jean-Pierre Mader       | Gérard Blanc       | Charlélie Couture  |
+    | Dans le film d'animation de Pixar « 1001 Pattes », quel insecte est Tilt, le personnage principal ?           | Une fourmi        | Une araignée            | Un cafard          | Une libellule      |
+    | Quelle tortue sait « compter deux par deux et lacer ses chaussures » ?                                        | Franklin          | Donatello               | Caroline           | Gamera             |
+    | Dans « Peter Pan », comment se nomme la chienne de Wendy, John et Michael ?                                   | Nana              | Dolly                   | Jasmine            | Belle              |
+    | Dans l'aquarium de quelle ville allemande Paul le poulpe a-t-il eu son heure de gloire ?                      | Oberhausen        | Brunswick               | Karlsruhe          | Mannheim           |
+    | Quel nom de compositeur désigne aussi un saint-bernard héros de films ?                                       | Beethoven         | Mozart                  | Chopin             | Brahms             |
+    | Dans le roman de Cécile Aubry, quelle chienne Sébastien recueille-t-il dans son village ?                     | Belle             | Daisy                   | Simba              | Aurore             |
+
+*** Session du 11 aout 2021
+
+     | question | correct_answer | incorrect_answer_1 | incorrect_answer_2 | incorrect_answer_3 |
+     |----------+----------------+--------------------+--------------------+--------------------|
+     |          |                |                    |                    |                    |
